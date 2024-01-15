@@ -36,7 +36,7 @@ export const Navbar: FC = () => {
                                 data-aos="fade"
                                 data-aos-delay="200"
                             >
-                                Work
+                                Projects
                             </Button>
                             <Button
                                 variant="link"

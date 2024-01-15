@@ -80,7 +80,7 @@ export const FeaturedProjectCard: FC<Props> = ({
                         data-aos-delay="100"
                         data-aos-offset="200"
                     >
-                        {year} • {location}
+                        {year}
                     </Text>
 
                     <Box

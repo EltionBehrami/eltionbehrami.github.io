@@ -1,10 +1,12 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+
+Hello there! 👋 I'm a  _Fullstack Software Engineer_ based in New York City. A proud alumnus of George Washington University and a recent graduate of the App Academy bootcamp, I bring a fervent passion for **Software Development** to the table. Explore my portfolio to witness the exciting projects and skills that define my journey in the world of tech!
 
 I'm currently working with,
 
--   React (TS)
+-   React (JS)
+-   Redux
 -   NodeJS
--   Flask (Python)
--   HTML/SCSS
--   WebSockets
--   GraphQL
+-   Ruby on Rails
+-   HTML/CSS
+-   PostgreSQL
+-   MongoDB
