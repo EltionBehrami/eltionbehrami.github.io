@@ -24,5 +24,18 @@
         "Elevate your sound experience with Cherry Music, a refined Apple Music-inspired clone. Immerse yourself in a rich, responsive interface crafted with React, Redux, Ruby on Rails, PostgreSQL, and AWS. Curate your music journey effortlessly with easy playlist management. 🎶🍒",
         "image": "/assets/featured-projects/cherrysplash.png",
         "jpg": "/assets/featured-projects/asctb.jpeg"
+    },
+    {
+        "id": "featured-project-asctc-reporter",
+        "title": "miKitchen",
+        "year": "November 2023",
+        "location": "App Academy",
+        "demo": "https://eltionbehrami.github.io/miKitchen/",
+        "github": "https://github.com/EltionBehrami/miKitchen",
+        "tags": ["Javascript", "D3.js", "Edamam API", "HTML5", "CSS3"],
+        "description": 
+        "miKitchen is a delightful and educational  data visualization project, turning the kitchen into an interactive 2D experience where users explore and learn about cooking, nutrition, and ingredient-recipe dynamics. 📊🍳 ",
+        "image": "/assets/featured-projects/miKitchen.png",
+        "jpg": "/assets/featured-projects/asctb.jpeg"
     }
 ]
