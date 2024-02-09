@@ -6,8 +6,8 @@ import { configs } from "shared/content/Content";
 import { Expandable } from "pages/about/common/expandable/Expandable";
 import { ArticleTitle } from "pages/about/common/title/Title";
 
-// export const Experience: FC = () => {
-//     const [experiencesExpanded, setExperiencesExpanded] = useState<number[]>([]);
+export const Experience: FC = () => {
+    const [experiencesExpanded, setExperiencesExpanded] = useState<number[]>([]);
 
     return (
         <>
