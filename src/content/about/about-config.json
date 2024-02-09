@@ -36,24 +36,20 @@
             "tools": [
                 "JavaScript",
                 "Ruby",
-                "NoSQL",
-                "SQL",
-                "React",
-                "Redux",
-                "Ruby on Rails"
+                "SQL"
             ]
         },
         {
             "title": "Web",
-            "tools": ["React", "NodeJS", "Redux", "HTML/CSS"]
+            "tools": ["React", "NodeJS", "Redux", "HTML5/CSS3", "Ruby on Rails"]
         },
         {
             "title": "Databases",
             "tools": ["MongoDB", "PostgreSQL"]
         },
         {
-            "title": "OS & Tools",
-            "tools": ["MacOS", "Git", "Agile (Scrum)", "MVC", "REST API", "Render"]
+            "title": "Development",
+            "tools": ["Git", "Agile (Scrum)", "MVC", "REST API", "Render"]
         }
     ]
 }
