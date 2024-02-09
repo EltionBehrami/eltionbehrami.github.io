@@ -32,7 +32,7 @@
         "location": "App Academy",
         "demo": "https://eltionbehrami.github.io/miKitchen/",
         "github": "https://github.com/EltionBehrami/miKitchen",
-        "tags": ["Javascript", "D3.js", "Edamam API", "HTML5", "CSS3"],
+        "tags": ["Javascript", "D3.js", "Edamam API", "HTML5", "SCSS"],
         "description": 
         "miKitchen is a delightful and educational  data visualization project, turning the kitchen into an interactive 2D experience where users explore and learn about cooking, nutrition, and ingredient-recipe dynamics. 📊🍳 ",
         "image": "/assets/featured-projects/miKitchen.png",
