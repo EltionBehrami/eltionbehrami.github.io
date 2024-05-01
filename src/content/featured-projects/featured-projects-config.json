@@ -8,7 +8,7 @@
         "tags": ["React", "Redux", "Javascript", "Ruby on Rails", "PostgreSQL", "Stripe", "Google Calendar API", "AWS S3"],
         "description": 
         "Servo is a user-friendly web platform designed to streamline service booking for users in St. George. With Servo, users can easily book appointments, receive instant quotes, schedule services, and securely make payments online. Service providers and entrepreneurs can also leverage Servo to grow their businesses and connect with potential clients in the area. Servo offers a seamless and intuitive experience for both users and service providers. Join us in revolutionizing the way service booking is done! 🛠️",
-        "image": "/assets/featured-projects/Servo.png",
+        "image": "/assets/featured-projects/servo.png",
         "jpg": "/assets/featured-projects/trackcta.jpeg"
     },
     {
