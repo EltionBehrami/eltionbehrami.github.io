@@ -1,6 +1,18 @@
 [
     {
         "id": "featured-project-trackcta",
+        "title": "Servo LLC",
+        "year": "Jan 2024 - Present",
+        "location": "New York City",
+        "demo": "https://www.bookservo.com/",
+        "tags": ["React", "Redux", "Javascript", "Ruby on Rails", "PostgreSQL", "Stripe", "Google Calendar API", "AWS S3"],
+        "description": 
+        "Servo is a user-friendly web platform designed to streamline service booking for users in St. George. With Servo, users can easily book appointments, receive instant quotes, schedule services, and securely make payments online. Service providers and entrepreneurs can also leverage Servo to grow their businesses and connect with potential clients in the area. Servo offers a seamless and intuitive experience for both users and service providers. Join us in revolutionizing the way service booking is done! 🛠️",
+        "image": "/assets/featured-projects/Servo.png",
+        "jpg": "/assets/featured-projects/trackcta.jpeg"
+    },
+    {
+        "id": "featured-project-trackcta",
         "title": "Bonjour World",
         "year": "Dec 2023 - Present",
         "location": "New York City",
@@ -19,7 +31,7 @@
         "location": "App Academy",
         "demo": "https://cherry-music.onrender.com/",
         "github": "https://github.com/EltionBehrami/Cherry-Music",
-        "tags": ["React", "Redux", "Javascript", "Ruby on Rails", "PostgreSQL"],
+        "tags": ["React", "Redux", "Javascript", "Ruby on Rails", "PostgreSQL", "AWS S3"],
         "description": 
         "Elevate your sound experience with Cherry Music, a refined Apple Music-inspired clone. Immerse yourself in a rich, responsive interface crafted with React, Redux, Ruby on Rails, PostgreSQL, and AWS. Curate your music journey effortlessly with easy playlist management. 🎶🍒",
         "image": "/assets/featured-projects/cherrysplash.png",

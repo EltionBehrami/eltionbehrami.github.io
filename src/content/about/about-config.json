@@ -20,9 +20,9 @@
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Reputation",
-            "position": "Software Engineer (Frontend)",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "Servo LLC",
+            "position": "Software Engineer",
+            "duration": "January 2024 - Current",
             "description": [
                 "Revamping the current report generation framework using React, that aggregates data from 30 modules to support an interactive cartesian system.​",
                 "Integrated user activity data from BigQuery into a custom tailored dashboard available to 10000+ clients.",
